@@ -21,6 +21,7 @@ A CNN is a feed-forward neural network primarily used for analyzing images. It p
 
 ## How CNNs Work: Step-by-Step
 ![alt text](./Images/image-1.png)
+
 Imagine you have an image say, a handwritten digit or a bird—and you want your model to correctly identify it. Here’s how CNN processes that image:
 
 ### Step 1: Input Layer
