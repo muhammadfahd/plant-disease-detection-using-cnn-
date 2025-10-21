@@ -12,6 +12,7 @@ Convolutional Neural Networks (CNNs) are a foundational algorithm in deep learni
 
 ## 1. What Is a Convolutional Neural Network?
 A CNN is a feed-forward neural network primarily used for analyzing images. It processes data that has a grid-like structure—for images, this grid is formed by pixels. The main goal of a CNN is to detect and classify objects within an image while preserving spatial information (the positions of features in the image).
+
 ![alt text](./Images/image.png)
 
 **Common applications include**:
